@@ -12,8 +12,8 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-050816?style=flat-square\&logo=github\&logoColor=00C8FF)](https://github.com/wxearly)
-[![Projects](https://img.shields.io/badge/Projects-In%20Progress-050816?style=flat-square\&logo=rocket\&logoColor=00C8FF)](https://github.com/wxearly?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-050816?style=flat-square\&logo=github\&logoColor=00C8FF)](https://github.com/drxkov)
+[![Projects](https://img.shields.io/badge/Projects-In%20Progress-050816?style=flat-square\&logo=rocket\&logoColor=00C8FF)](https://github.com/drxkov?tab=repositories)
 
 </div>
 
@@ -51,7 +51,7 @@ I'm interested in clean interfaces, practical tools, and software that feels as 
 
 <div align="center">
 
-<a href="https://github.com/wxearly?tab=repositories">
+<a href="https://github.com/drxkov?tab=repositories">
 <img src="https://img.shields.io/badge/Explore-My%20Repositories-071D35?style=for-the-badge&logo=github&logoColor=00C8FF" alt="Explore repositories"/>
 </a>
 
@@ -65,7 +65,7 @@ I'm interested in clean interfaces, practical tools, and software that feels as 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wxearly&bg_color=050816&color=00C8FF&line=008CFF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=drxkov&bg_color=050816&color=00C8FF&line=008CFF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
