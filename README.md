@@ -1,13 +1,4 @@
-<!--
-╔══════════════════════════════════════════════════════════╗
-║                         wx                               ║
-║              Building things that matter.                ║
-╚══════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050816,50:071D35,100:00C8FF&text=wx&fontColor=FFFFFF&fontSize=90&fontAlignY=48&animation=fadeIn&stroke=00C8FF&strokeWidth=1" width="100%" alt="wx — developer banner"/>
 
 <br/>
 
